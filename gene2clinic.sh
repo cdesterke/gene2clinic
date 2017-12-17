@@ -50,12 +50,6 @@ cat clinvar_results.csv >> $log_file
 echo "-------------------------------------">> $log_file
 echo "-------------------------------------">> $log_file
 
-
-
-
-
-
-
 cat log_file.log
 
 mkdir RESULTS
@@ -71,14 +65,12 @@ mv RESULTS RESULTS_$nom_fichier
 
 rm input 
 
-
 rm clinvar_sorted
 rm clinvar
 rm clinvar_annotation.txt
 rm clinvar_uniq.txt
 rm result_clinvar.txt
 rm headers_clinvar.tsv
-
 
 
 exit 0

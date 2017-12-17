@@ -13,7 +13,7 @@ update of the annotation software : put new gene summary gene information in a 
 
  
 OPERATING SYSTEM
-this software run under BASH envronment with installation of more utilities as dependencies.
+this software run under BASH environment with installation of more utilities as dependencies.
 Tested under linux debian MINT version
 
 LICENSE

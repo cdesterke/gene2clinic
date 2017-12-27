@@ -1,5 +1,5 @@
 # gene2clinic
-Software which allow to annotated quantification of clinical variants on a human gene list as input
+Software which allow to annotate quantification of clinical variants on a human gene list as input
 
 SYNOPSIS
 gene2clinic software allowed to annotate a list of human genes with clinical variant information provide by NCBI : Clinvar gene_specific_summary (version april 2017)

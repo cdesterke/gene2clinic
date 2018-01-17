@@ -3,6 +3,7 @@
 ## Author: Christophe Desterke
 ## Version 1.0.1
 ## Date: April 23th, 2017
+## dependencies: install library "moreutils to call sponge command line
 ## Usage: sh gene2clinic.sh humangene.txt
 
 variable=${1}

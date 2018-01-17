@@ -19,6 +19,10 @@ Tested under linux debian MINT version
 LICENSE
 MIT
 
+DEPENDECIES
+install "moreutils" library in order to call "sponge" command line inside this program
+under debian: sudo apt-get install moreutils
+
 USAGE
 $sh gene2clinic.sh humangene.txt
 
